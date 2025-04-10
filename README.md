@@ -39,6 +39,7 @@
 
 - **LinkedIn** : https://www.linkedin.com/in/gilchrist-ouédraogo-2279072a5
 - **Email** : giloued8@gmail.com
+- **Kaggle** : https://www.kaggle.com/gilchr
 
 ---
 
