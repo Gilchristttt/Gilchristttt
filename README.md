@@ -38,7 +38,7 @@
 ## 📫 Me contacter
 
 - **LinkedIn** : https://www.linkedin.com/in/gilchrist-ouédraogo-2279072a5
-- **Email** : mailto:giloued8@gmail.com
+- **Email** : giloued8@gmail.com
 
 ---
 
