@@ -1,44 +1,44 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Bannière de profil" />
+  <img src="https://zupimages.net/viewer.php?id=25/15/w6wz.jpg" alt="Bannière de profil" />
 </p>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-- 🎓 **Formation** : [Votre formation actuelle ou passée]
-- 💼 **Expérience professionnelle** : [Votre poste actuel ou précédent]
-- 🎯 **Domaines d'intérêt** : [Vos domaines d'intérêt, par exemple : Intelligence Artificielle, Développement Full-Stack]
-- 🌍 **Langues parlées** : [Liste des langues que vous maîtrisez]
+- 🎓 **Formation** : Master en  Science des Données
+- 💼 **Expérience professionnelle** : Stagiaire data scientist à la Poste
+- 🎯 **Domaines d'intérêt** : Intelligence Artificielle,Data Science
+- 🌍 **Langues parlées** : Français, Anglais
 
 ---
 
 ## 🛠️ Compétences techniques
 
-- **Langages de programmation** : [Liste de langages, par exemple : Python, JavaScript, Java]
-- **Frameworks et bibliothèques** : [Liste, par exemple : React, Node.js, TensorFlow]
-- **Outils et plateformes** : [Liste, par exemple : Docker, AWS, Git]
+- **Langages de programmation** : Python, R, JavaScript, HTML,
+- **Frameworks et bibliothèques** : TensorFlow, PyTorch, Scikit-learn, pandas, NumPy, spaCy, Transformers (Hugging Face)
+- **Outils et plateformes** : Git, GitHub, Docker, Render, Streamlit, VS Code, Jupyter Notebook, Google Colab, Linux, Kaggle, Dataiku
 
 ---
 
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=dark" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gilchristttt&show_icons=true&theme=dark" alt="Statistiques GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VotreNomUtilisateur&theme=dark" alt="Série de contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilchristttt&theme=dark" alt="Série de contributions" />
 </p>
 
 ---
 
 ## 📫 Me contacter
 
-- **LinkedIn** : [Votre profil LinkedIn](https://www.linkedin.com/in/votreprofil)
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
+- **LinkedIn** : https://www.linkedin.com/in/gilchrist-ouédraogo-2279072a5
+- **Email** : mailto:giloued8@gmail.com
 
 ---
 
