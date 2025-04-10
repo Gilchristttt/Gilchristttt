@@ -9,7 +9,7 @@
 ## 👨‍💻 À propos de moi
 
 - 🎓 **Formation** : Master en  Science des Données
-- 💼 **Expérience professionnelle** : Stagiaire data scientist à la Poste
+- 💼 **Expérience professionnelle** : Stagiaire data scientist chez la Poste
 - 🎯 **Domaines d'intérêt** : Intelligence Artificielle,Data Science
 - 🌍 **Langues parlées** : Français, Anglais
 
