@@ -17,9 +17,10 @@
 
 ## 🛠️ Compétences techniques
 
-- **Langages de programmation** : Python, R, JavaScript, HTML,
+- **Langages de programmation** : Python, R, JavaScript, HTML, SAS
 - **Frameworks et bibliothèques** : TensorFlow, PyTorch, Scikit-learn, pandas, NumPy, spaCy, Transformers (Hugging Face)
-- **Outils et plateformes** : Git, GitHub, Docker, Render, Streamlit, VS Code, Jupyter Notebook, Google Colab, Linux, Kaggle, Dataiku
+- Outils de Visualisations** : Tableau, Power BI
+- **Outils et plateformes** : Git, GitHub, Streamlit, VS Code, Jupyter Notebook, Google Colab, Linux, Kaggle, Dataiku
 
 ---
 
