@@ -28,6 +28,9 @@
 
 - **CV Checker** : https://cv-compatibility.streamlit.app/
 
+---
+
+
 ## 📈 Statistiques GitHub
 
 <p align="center">
