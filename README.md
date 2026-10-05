@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
 <p align="center">
-<img src="https://zupimages.net/up/26/41/58tt.png" alt="Bannière de profil" width="70%">
+<img src="https://zupimages.net/up/26/41/58tt.png" alt="Bannière de profil" width="40%">
 </p>
 
 ---
