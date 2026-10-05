@@ -23,6 +23,12 @@
 
 ## 👨‍💻 À propos de moi
 
+<p align="center">
+  <a href="https://github.com/Gilchristttt/Gilchristttt/raw/main/CV_Gilchrist_Ouedraogo.pdf">
+    <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-0e75b6?style=for-the-badge" alt="Télécharger mon CV">
+  </a>
+</p>
+
 Étudiant en **Master Big Data (Data Science & IA)**, je me spécialise dans l'application du machine learning à la **finance, à l'assurance et à la gestion du risque**. J'aime construire des solutions de bout en bout : de la donnée brute jusqu'au modèle déployé et monitoré.
 
 | | |
