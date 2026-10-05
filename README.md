@@ -24,7 +24,7 @@
 ## 👨‍💻 À propos de moi
 
 <p align="center">
-  <a href="https://github.com/Gilchristttt/Gilchristttt/raw/main/CV_Gilchrist_Ouedraogo.pdf">
+  <a href="https://github.com/Gilchristttt/Gilchristttt/raw/main/CV%20Gilchrist%20Ouedraogo.pdf">
     <img src="https://img.shields.io/badge/📄%20Télécharger%20mon%20CV-0e75b6?style=for-the-badge" alt="Télécharger mon CV">
   </a>
 </p>
