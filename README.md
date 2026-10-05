@@ -29,7 +29,7 @@
   </a>
 </p>
 
-Étudiant en **Master Big Data (Data Science & IA)**, je me spécialise dans l'application du machine learning à la **finance, à l'assurance et à la gestion du risque**. J'aime construire des solutions de bout en bout : de la donnée brute jusqu'au modèle déployé et monitoré.
+Diplômé d'un **Master Big Data (Data Science & IA)**, je me spécialise dans l'application du **machine learning** à la **finance**, à **l'assurance** et à la **gestion du risque**. J'aime construire des solutions de bout en bout : de la donnée brute jusqu'au modèle déployé et monitoré.
 
 | | |
 |---|---|
