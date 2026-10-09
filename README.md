@@ -114,7 +114,7 @@ Projet en cours : système d'alerte précoce appliquant le machine learning à l
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilchristttt&theme=tokyonight&hide_border=true" alt="Série de contributions" />
+<img src="https://streak-stats.demolab.com/?user=Gilchristttt&theme=tokyonight&hide_border=true" alt="Série de contributions" />
 
 </div>
 
