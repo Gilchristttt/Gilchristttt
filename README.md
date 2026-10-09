@@ -93,6 +93,11 @@ Projet en cours : système d'alerte précoce appliquant le machine learning à l
 `Python` · `Machine Learning` · `Finance`
 👉 [Voir le dépôt](https://github.com/Gilchristttt/Financial-Early-Warning-)
 
+### 🎓 Eduflex : [assistant d'apprentissage propulsé par IA]
+Application web qui [ce qu'elle fait : par ex. génère des exercices et des résumés personnalisés] grâce à un LLM.
+`React` · `Python` · `LLM (Groq)`
+👉 [Essayer l'application](https://gilchristttt.github.io/Page-Eduflex/)
+
 > 💡 D'autres projets sont à découvrir dans mes [dépôts](https://github.com/Gilchristttt?tab=repositories).
 
 ---
