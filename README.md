@@ -86,16 +86,19 @@ Diplômé d'un **Master Big Data (Data Science & IA)**, je me spécialise dans l
 ### 🎓 Eduflex : assistant d'apprentissage propulsé par IA
 Application web qui génère des exercices et des résumés personnalisés grâce à un LLM.
 `React` · `Python` · `LLM (Groq)`
+
 👉 [Essayer l'application](https://gilchristttt.github.io/Page-Eduflex/)
 
 ### 📄 CV Checker : analyseur de compatibilité CV / offre
 Application web qui compare un CV à une offre d'emploi et mesure leur adéquation grâce au traitement du langage naturel.
 `Python` · `NLP` · `Streamlit`
+
 👉 [Essayer l'application](https://cv-compatibility.streamlit.app/)
 
 ### 🏦 Financial Early Warning
 Projet en cours : système d'alerte précoce appliquant le machine learning à la détection de signaux de risque financier.
 `Python` · `Machine Learning` · `Finance`
+
 👉 [Voir le dépôt](https://github.com/Gilchristttt/Financial-Early-Warning-)
 
 > 💡 D'autres projets sont à découvrir dans mes [dépôts](https://github.com/Gilchristttt?tab=repositories).
