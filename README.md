@@ -10,7 +10,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/gilchrist-ou%C3%A9draogo-2279072a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:giloued8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.kaggle.com/gilchr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://cv-compatibility.streamlit.app/"><img src="https://img.shields.io/badge/CV%20Checker-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="CV Checker"></a>
   <a href="https://gilchristttt.github.io/Page-Eduflex/"><img src="https://img.shields.io/badge/Eduflex-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Eduflex"></a>
