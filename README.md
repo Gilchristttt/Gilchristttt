@@ -13,6 +13,7 @@
   <a href="mailto:giloued8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.kaggle.com/gilchr"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://cv-compatibility.streamlit.app/"><img src="https://img.shields.io/badge/CV%20Checker-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="CV Checker"></a>
+  <a href="https://gilchristttt.github.io/Page-Eduflex/"><img src="https://gilchristttt.github.io/Page-Eduflex/static/media/eduflex.0bf76bf5e36cdd871dfb.png" alt="Eduflex"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Gilchristttt&label=Visites&color=0e75b6&style=flat" alt="Compteur de visites">
